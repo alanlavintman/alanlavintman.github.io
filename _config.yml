@@ -6,19 +6,7 @@
 name: Alan Lavintman
 
 # Short bio or description (displayed in the header)
-description: Just another software engineer with a will of writting a bio right now but actually thinking about some nonsense problem i would like to solve :)
-I enjoy software problems of all kinds, i have been working in the industry for the last 15 years and i have passed throught a different set of challenges among my career.
-I have developed software for different industries and worked under different roles. Some of them involving UI where i had fun working functional javascript, others on the server side at high scale (the last one around 40k rps) using the jvm at its best, and finally at the most recent part of my career using hadoop to digest and run algorithms on big data (aroud 1/5TB daily). I have some experience in Search, a field that i liked to be part of, but unfortunately didnt quiet enjoy it as i would have liked (Inverted indexes are pretty static). 
-
-Currently im pretty interested in the devops field (Dont ask me why), i have experience with the AWS platform, infrastructure as a code (puppet/chef/ansible), monitoring and alerting; mobile development and VR.
-
-I hope you enjoy this blog, i will be posting about the fields that i like the most: 
-
-- Machine Learning
-- Big Data
-- VR
-- Server side: Mostly scala/akka/nodejs
-- Mobile (If i would ever have the time to hack the android sdk)
+description: Just another software engineer :)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
